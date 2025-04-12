@@ -7,4 +7,5 @@
 
 📫 How to reach me:
 Linkedin Badge
+
 Languages and Tools: HTML5 CSS3 JavaScript  React react-router redux mui bootstrap NodeJS express 
