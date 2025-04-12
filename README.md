@@ -1,4 +1,3 @@
-## Hi there 👋
 Sirvi Narendra Premraj/README.md
 ## Hi Everyone 👋 I am Narendra 🔭
 Visitor Count
