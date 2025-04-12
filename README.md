@@ -1,4 +1,4 @@
-## Hi Everyone 👋 I am Narendra 🔭
+## Hi 👋 I am Narendra 🔭
 Visitor Count
 
 💪 Currently looking for job as a Frontend Software Engineer.
