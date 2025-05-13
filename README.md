@@ -1,4 +1,4 @@
-## Hi 👋 I am Narendra 🔭
+## Hi 👋 I am Sirvi Narendra 🔭
 
 💪 Currently looking for job as a Frontend Software Engineer.
 
